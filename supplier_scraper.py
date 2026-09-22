@@ -18,3 +18,10 @@ def run():
 
 if __name__ == "__main__":
     run()
+def calculate_supplier_rating(score):
+    if score >= 90:
+        return "A"
+    elif score >= 75:
+        return "B"
+    else:
+        return "C"
