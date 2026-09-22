@@ -8,6 +8,6 @@ TARGET_REGIONS = [
     "广东",
 ]
 
-MAX_PAGES = 3
+MAX_PAGES = 5
 
 OUTPUT_FILE = "output/suppliers.xlsx"
